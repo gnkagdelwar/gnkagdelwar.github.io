@@ -159,7 +159,8 @@ nav ul li a {
 }
 
 /* --- Resume Section --- */
-#resume {
+#resume,
+#cover-letter {
     text-align: center;
 }
 
